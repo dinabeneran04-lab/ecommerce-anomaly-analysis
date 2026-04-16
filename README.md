@@ -12,6 +12,7 @@
 4. [cite_start]**Hipotesis Strategi Bisnis:** Indikasi perbedaan harga antara segmen Wholesale (Member) vs Retail (Guest) [cite: 84-86].
 
 ## 📊 Temuan Kunci
+![Top Produk](docs/Top_Produk.png)
 * [cite_start]**Revenue Impact:** Guest menyumbang 14,8% dari total revenue (£1.44M) [cite: 60-61, 72].
 * [cite_start]**Price Discrimination:** Harga rata-rata Charlotte Bag untuk Guest adalah £2.06, sedangkan Member hanya £1.12[cite: 80].
 * **Shopping Behavior:** Guest memiliki rata-rata item unik per invoice lebih tinggi (38 item) dibanding Member (20 item).
