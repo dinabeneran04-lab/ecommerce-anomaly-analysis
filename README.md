@@ -20,3 +20,9 @@
 ## 💡 Rekomendasi Bisnis
 * [cite_start]**Lead Product:** Menggunakan Charlotte Bag sebagai produk penarik untuk konversi pendaftaran member baru [cite: 116-117].
 * [cite_start]**Data Audit:** Melakukan audit pada sistem POS terkait produk tanpa nama valid (kode 20713)[cite: 123].
+
+
+## 👤 Author
+**Dina Rahma Wita**  
+* [LinkedIn](https://www.linkedin.com/in/dina-rahma-wita/)  
+* [Portfolio Website](https://comfortable-trust-262713.framer.app)
